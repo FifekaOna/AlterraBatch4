@@ -1,4 +1,8 @@
 package starter.Pages;
 
-public class CartPage {
+import net.thucydides.core.pages.PageObject;
+
+public class CartPage extends PageObject {
+
+
 }
